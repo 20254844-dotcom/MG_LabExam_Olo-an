@@ -1,0 +1,20 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.controlled {
+  margin: auto;
+  width: 500px;
+  padding: 10px;
+  border: 2px solid black;
+}
+.uncontrolled {
+  margin: auto;
+  width: 500px;
+  height: 650px;
+  border: 2px solid black;
+}
+
+
